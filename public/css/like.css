@@ -1,0 +1,13 @@
+.like-btn {
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.like-btn i {
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+
